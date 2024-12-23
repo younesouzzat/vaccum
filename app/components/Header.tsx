@@ -14,12 +14,8 @@ import {
 } from "@/components/ui/sheet";
 
 import {
-  Moon,
-  Sun,
   Menu,
-  Facebook,
-  Instagram,
-  ShoppingBasket,
+  ShoppingBasket
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import DarkModeToggle from "./dark-mode-toggle";
